@@ -1,0 +1,74 @@
+row_type,asset_name,campaign_id,deleted,audience_member_key,audience_member_key_type,visits,unique_visitors,total_clicks,avg_time_seconds,subcategory_clicks,last_click_at
+audience_member,1:1 Obs Customer Expansion,9770f04f-1120-4801-ad77-356edddad092,false,tecoenergy.com,other,,,,,3,2026-03-04 15:19
+audience_member,1:1 Obs Customer Expansion,9770f04f-1120-4801-ad77-356edddad092,false,heico.com,other,,,,,2,2026-03-04 15:18
+asset,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,,,109,105,80,20.9,,
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,ke.kcbgroup.com,domain,,,,,12,2026-03-01 18:38
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,ecobank.com,domain,,,,,11,2026-03-03 18:52
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,kenya.accessbankplc.com,domain,,,,,11,2026-03-03 09:42
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,nedbank.co.za,domain,,,,,10,2026-02-27 02:55
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,ib.africanbank.co.za,domain,,,,,7,2026-02-27 03:59
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,investec.com,domain,,,,,6,2026-03-04 14:27
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,absabank.co.ke,domain,,,,,6,2026-02-26 14:19
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,standardbank.mu,domain,,,,,5,2026-02-27 13:52
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,nmbbank.co.tz,domain,,,,,5,2026-02-25 05:23
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,ke.ncbagroup.com,domain,,,,,4,2026-02-27 18:55
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,stanbicbank.co.ug,domain,,,,,1,2026-01-29 03:14
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,bankofabyssinia.com,domain,,,,,1,2026-02-11 10:25
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,bank-abc.com,domain,,,,,1,2026-02-19 07:27
+asset,2026 ABX Partner Eastra Insurance 1:1,0410f6fc-bf55-4f21-ae03-6b01c5046dd9,false,,,20,19,11,21.4,,
+audience_member,2026 ABX Partner Eastra Insurance 1:1,0410f6fc-bf55-4f21-ae03-6b01c5046dd9,false,pps.co.za,domain,,,,,7,2026-02-19 20:17
+audience_member,2026 ABX Partner Eastra Insurance 1:1,0410f6fc-bf55-4f21-ae03-6b01c5046dd9,false,britam.com,domain,,,,,2,2026-03-05 15:59
+audience_member,2026 ABX Partner Eastra Insurance 1:1,0410f6fc-bf55-4f21-ae03-6b01c5046dd9,false,sanlam.co.ke,domain,,,,,2,2026-02-23 20:52
+asset,2026 Eastra Banking,2265b0d8-50cb-4181-bd51-93a559226561,false,,,45,34,48,25.8,,
+asset,ABX Eastra Banking 1:1,052798ae-31fb-4b87-8b3d-da82eb8ffeb9,false,,,19,18,13,31.4,,
+audience_member,ABX Eastra Banking 1:1,052798ae-31fb-4b87-8b3d-da82eb8ffeb9,false,ecobank.com,domain,,,,,3,2026-01-25 04:10
+audience_member,ABX Eastra Banking 1:1,052798ae-31fb-4b87-8b3d-da82eb8ffeb9,false,nmbbank.co.tz,domain,,,,,2,2026-01-17 03:47
+audience_member,ABX Eastra Banking 1:1,052798ae-31fb-4b87-8b3d-da82eb8ffeb9,false,co-opbank.co.ke,domain,,,,,2,2026-02-14 13:17
+audience_member,ABX Eastra Banking 1:1,052798ae-31fb-4b87-8b3d-da82eb8ffeb9,false,ke.kcbgroup.com,domain,,,,,2,2026-01-28 02:29
+audience_member,ABX Eastra Banking 1:1,052798ae-31fb-4b87-8b3d-da82eb8ffeb9,false,bank-abc.com,domain,,,,,1,2026-01-24 00:41
+audience_member,ABX Eastra Banking 1:1,052798ae-31fb-4b87-8b3d-da82eb8ffeb9,false,nedbank.co.za,domain,,,,,1,2026-01-17 00:46
+audience_member,ABX Eastra Banking 1:1,052798ae-31fb-4b87-8b3d-da82eb8ffeb9,false,ib.africanbank.co.za,domain,,,,,1,2026-01-02 05:24
+audience_member,ABX Eastra Banking 1:1,052798ae-31fb-4b87-8b3d-da82eb8ffeb9,false,absabank.co.ke,domain,,,,,1,2026-01-25 02:11
+audience_member,ABX Eastra Banking 1:1,052798ae-31fb-4b87-8b3d-da82eb8ffeb9,false,kenya.accessbankplc.com,domain,,,,,1,2026-01-08 03:36
+asset,ABX Eastra Banking 2026 New Edits,092552d0-bc2d-4633-9b24-e9cb99afabbd,false,,,50,44,136,27.5,,
+asset,ABX Eastra Banking_DO NOT USE,832a9be5-ecae-498b-a29f-56061480be63,false,,,31,30,10,13.3,,
+asset,ABX Eastra Insurance 1:1,32839516-fee5-4388-8392-f025b1ac001f,false,,,1,1,0,0.0,,
+asset,ABX Eastra Insurance 2026,ce3dcc42-b46b-48c6-a994-6eb5645b6688,false,,,46,31,22,11.5,,
+asset,ABX Eastra Insurance_DO NOT USE,cc5dc373-162b-4780-8d50-4581e2abef41,false,,,9,9,1,8.7,,
+asset,ABX Eastra SACCO_DO NOT USE,a6ef7096-f5d6-4fe3-947a-3474d6812672,false,,,4,2,1,23.1,,
+asset,ABX Eastra Sacco 2026,076180be-8258-41e0-b4a0-929d50d6bb30,false,,,35,25,12,14.4,,
+audience_member,Database 1:1 Campaign,988cd74d-05cb-47e4-aa22-975702478f55,false,blackrock.com,domain,,,,,7,2026-02-06 11:11
+audience_member,Database 1:1 Campaign,988cd74d-05cb-47e4-aa22-975702478f55,false,altalink.ca,domain,,,,,1,2026-02-06 10:58
+audience_member,Database 1:1 Campaign,988cd74d-05cb-47e4-aa22-975702478f55,false,dickssportinggoods.com,domain,,,,,1,2026-02-06 10:59
+asset,Database 1:Many Campaign (Default),fd60809d-78c8-44c6-9f9e-a99912659d24,false,,,299,276,82,19.0,,
+asset,Database AI Landing Page,934b799f-6058-4295-95f3-4cf4c6eef51a,false,,,206,186,173,7.6,,
+asset,Database Customer Campaign V1,800d5ace-0972-4a76-aac2-bcbab091fcad,false,,,27,25,6,9.9,,
+audience_member,Database Customer Campaign V1,800d5ace-0972-4a76-aac2-bcbab091fcad,false,thermofisher.com,domain,,,,,10,2026-02-25 09:24
+audience_member,Database Customer Campaign V1,800d5ace-0972-4a76-aac2-bcbab091fcad,false,bloomberg.net,domain,,,,,3,2026-01-22 00:38
+audience_member,Database Customer Campaign V1,800d5ace-0972-4a76-aac2-bcbab091fcad,false,afni.com,domain,,,,,2,2026-01-28 14:03
+audience_member,Database Customer Campaign V1,800d5ace-0972-4a76-aac2-bcbab091fcad,false,greendotcorp.com,domain,,,,,1,2026-02-12 14:00
+audience_member,Database Customer Campaign V1,800d5ace-0972-4a76-aac2-bcbab091fcad,false,nike.com,domain,,,,,1,2026-01-17 02:54
+audience_member,Database Customer Campaign V1,800d5ace-0972-4a76-aac2-bcbab091fcad,false,usbank.com,domain,,,,,1,2026-01-24 18:55
+asset,Database Customer Campaign- Default Page,0a943fc4-d080-4034-bfba-b6bc95559f1e,false,,,1432,1360,192,9.9,,
+audience_member,Database Customer Campaign- Default Page,0a943fc4-d080-4034-bfba-b6bc95559f1e,false,solarwinds.com,domain,,,,,403,2026-03-04 18:50
+asset,Database Demo Landing Page,5091e8d9-9cf8-423f-be23-2ab1bf6fef0b,false,,,5,2,20,55.0,,
+audience_member,Database Generic Campaign_Tony,bea59811-8129-49e2-874d-faa3e95d79c2,false,solarwinds.com,domain,,,,,2,2026-01-26 16:05
+asset,New Logo Observability - Default Page,00b82130-8a5f-4d89-b6cf-c0198139de38,false,,,127,123,9,5.7,,
+audience_member,New Logo Observability - Default Page,00b82130-8a5f-4d89-b6cf-c0198139de38,false,solarwinds.com,domain,,,,,92,2026-02-22 01:39
+asset,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,,,50,47,20,20.8,,
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,sherwin-williams.com,domain,,,,,3,2026-01-19 05:43
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,mortonsalt.com,domain,,,,,3,2026-01-01 14:50
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,rinnai.us,domain,,,,,3,2026-01-14 12:39
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,ford.com,domain,,,,,3,2026-01-20 03:06
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,bp.guardian.com,domain,,,,,2,2026-01-07 21:58
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,bozzuto.com,domain,,,,,2,2026-02-10 01:19
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,godaddy.com,domain,,,,,2,2026-02-12 20:33
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,qdoba.com,domain,,,,,1,2026-01-08 00:42
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,anduril.com,domain,,,,,1,2026-01-25 16:45
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,umb.com,domain,,,,,1,2026-01-25 00:45
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,albertsons.com,domain,,,,,1,2026-01-03 00:47
+asset,Observability AI Landing Page,f56281ef-6eb9-41e3-a75f-6010f42e799d,false,,,2,2,0,2.7,,
+asset,Observability Customer Expansion 1:Many,9d46a737-b9e8-42a3-b0df-0efbbddff678,false,,,461,424,129,13.2,,
+asset,Observability Demo Video,7ec38bec-5a6f-47c6-b816-636c4e985a87,false,,,152,148,84,10.5,,
+asset,Regional SolarWinds 250,6b3154cf-bd9a-48e4-9d35-885b57e42705,false,,,12,6,0,20.8,,
+audience_member,Regional SolarWinds 250,6b3154cf-bd9a-48e4-9d35-885b57e42705,false,solarwinds.com,domain,,,,,29,2026-02-20 14:26
