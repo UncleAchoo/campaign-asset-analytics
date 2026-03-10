@@ -1,0 +1,72 @@
+row_type,asset_name,campaign_id,deleted,audience_member_key,visits,unique_visitors,total_clicks,avg_time_seconds
+asset,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,,114,110,82,20.4
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,ke-kcbgroup-com,20,18,12,26.3
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,kenya-accessbankplc-com,19,19,11,17.9
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,nedbank-co-za,12,12,11,22.3
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,investec-com,11,9,6,22.2
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,nmbbank-co-tz,9,9,5,18.1
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,standardbank-mu,8,8,5,20.0
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,ecobank-com,7,7,11,69.0
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,ib-africanbank-co-za,7,7,7,18.4
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,ke-ncbagroup-com,7,7,5,20.6
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,bankofabyssinia-com,6,6,1,22.7
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,absabank-co-ke,5,5,6,24.3
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,bank-abc-com,2,2,1,4.9
+audience_member,2026 ABX Partner Eastra Banking 1:1,1d5fe55b-e3b0-4dac-8f72-7045905d598b,false,stanbicbank-co-ug,1,1,1,40.2
+asset,2026 ABX Partner Eastra Insurance 1:1,0410f6fc-bf55-4f21-ae03-6b01c5046dd9,false,,20,19,11,21.4
+audience_member,2026 ABX Partner Eastra Insurance 1:1,0410f6fc-bf55-4f21-ae03-6b01c5046dd9,false,pps-co-za,8,7,7,33.5
+audience_member,2026 ABX Partner Eastra Insurance 1:1,0410f6fc-bf55-4f21-ae03-6b01c5046dd9,false,britam-com,7,7,2,10.8
+audience_member,2026 ABX Partner Eastra Insurance 1:1,0410f6fc-bf55-4f21-ae03-6b01c5046dd9,false,sanlam-co-ke,5,5,2,18.5
+asset,ABX Eastra Banking 1:1,052798ae-31fb-4b87-8b3d-da82eb8ffeb9,false,,20,19,13,29.8
+audience_member,ABX Eastra Banking 1:1,052798ae-31fb-4b87-8b3d-da82eb8ffeb9,false,co-opbank-co-ke,6,6,2,11.0
+audience_member,ABX Eastra Banking 1:1,052798ae-31fb-4b87-8b3d-da82eb8ffeb9,false,ke-kcbgroup-com,4,3,2,41.7
+audience_member,ABX Eastra Banking 1:1,052798ae-31fb-4b87-8b3d-da82eb8ffeb9,false,bank-abc-com,2,2,1,16.3
+audience_member,ABX Eastra Banking 1:1,052798ae-31fb-4b87-8b3d-da82eb8ffeb9,false,ecobank-com,2,2,2,55.6
+audience_member,ABX Eastra Banking 1:1,052798ae-31fb-4b87-8b3d-da82eb8ffeb9,false,nmbbank-co-tz,2,2,2,51.1
+audience_member,ABX Eastra Banking 1:1,052798ae-31fb-4b87-8b3d-da82eb8ffeb9,false,nedbank-co-za,1,1,1,18.1
+audience_member,ABX Eastra Banking 1:1,052798ae-31fb-4b87-8b3d-da82eb8ffeb9,false,absabank-co-ke,1,1,1,48.0
+audience_member,ABX Eastra Banking 1:1,052798ae-31fb-4b87-8b3d-da82eb8ffeb9,false,ib-africanbank-co-za,1,1,1,13.6
+audience_member,ABX Eastra Banking 1:1,052798ae-31fb-4b87-8b3d-da82eb8ffeb9,false,kenya-accessbankplc-com,1,1,1,38.3
+asset,ABX Eastra Insurance 1:1,32839516-fee5-4388-8392-f025b1ac001f,false,,1,1,0,0.0
+audience_member,ABX Eastra Insurance 1:1,32839516-fee5-4388-8392-f025b1ac001f,false,britam-com,1,1,0,0.0
+asset,Database Customer Campaign V1,800d5ace-0972-4a76-aac2-bcbab091fcad,false,,27,25,6,9.9
+audience_member,Database Customer Campaign V1,800d5ace-0972-4a76-aac2-bcbab091fcad,false,usbank-com,7,6,1,8.2
+audience_member,Database Customer Campaign V1,800d5ace-0972-4a76-aac2-bcbab091fcad,false,bloomberg-net,6,6,3,25.2
+audience_member,Database Customer Campaign V1,800d5ace-0972-4a76-aac2-bcbab091fcad,false,lilly-com,4,4,0,1.6
+audience_member,Database Customer Campaign V1,800d5ace-0972-4a76-aac2-bcbab091fcad,false,netapp-com,3,2,0,3.4
+audience_member,Database Customer Campaign V1,800d5ace-0972-4a76-aac2-bcbab091fcad,false,nike-com,2,2,1,5.8
+audience_member,Database Customer Campaign V1,800d5ace-0972-4a76-aac2-bcbab091fcad,false,afni-com,2,2,1,13.6
+audience_member,Database Customer Campaign V1,800d5ace-0972-4a76-aac2-bcbab091fcad,false,universalorlando-com,2,2,0,1.6
+audience_member,Database Customer Campaign V1,800d5ace-0972-4a76-aac2-bcbab091fcad,false,thermofisher-com,1,1,0,0.4
+asset,Database Customer Campaign- Default Page,0a943fc4-d080-4034-bfba-b6bc95559f1e,false,,1432,1360,192,9.9
+audience_member,Database Customer Campaign- Default Page,0a943fc4-d080-4034-bfba-b6bc95559f1e,false,solarwinds-com,1429,1359,192,13.0
+audience_member,Database Customer Campaign- Default Page,0a943fc4-d080-4034-bfba-b6bc95559f1e,false,database,3,1,0,4.8
+asset,New Logo Observability - Default Page,00b82130-8a5f-4d89-b6cf-c0198139de38,false,,127,123,9,5.7
+audience_member,New Logo Observability - Default Page,00b82130-8a5f-4d89-b6cf-c0198139de38,false,solarwinds,127,123,9,5.8
+asset,New Logo Observability ENT 1:1,47539922-d736-4455-952c-49403bcab5a7,false,,4,4,0,4.5
+audience_member,New Logo Observability ENT 1:1,47539922-d736-4455-952c-49403bcab5a7,false,toyota-com,1,1,0,16.5
+audience_member,New Logo Observability ENT 1:1,47539922-d736-4455-952c-49403bcab5a7,false,southwest-com,1,1,0,0.4
+audience_member,New Logo Observability ENT 1:1,47539922-d736-4455-952c-49403bcab5a7,false,gatepetro-com,1,1,0,0.4
+audience_member,New Logo Observability ENT 1:1,47539922-d736-4455-952c-49403bcab5a7,false,halliburton-com,1,1,0,0.6
+asset,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,,50,47,20,20.8
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,ford-com,9,9,3,21.5
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,sherwin-williams-com,7,6,3,25.8
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,pge-com,4,4,0,27.6
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,bp-guardian-com,4,3,2,24.6
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,gm-com,3,3,0,31.2
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,bozzuto-com,3,3,2,26.2
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,qdoba-com,3,3,1,11.4
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,rinnai-us,3,3,3,5.2
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,umb-com,2,2,1,15.2
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,olivegarden-com,2,2,0,0.4
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,anduril-com,2,2,1,51.0
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,albertsons-com,2,2,1,12.7
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,mortonsalt-com,2,1,3,58.7
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,statefarm-com,1,1,0,0.9
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,amfam-com,1,1,0,4.2
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,morganstanley-com,1,1,0,7.0
+audience_member,New Logo Pain Points,36b9be42-2af2-4802-aad0-329cff575c44,false,fmc-com,1,1,0,0.6
+asset,Regional SolarWinds 250,6b3154cf-bd9a-48e4-9d35-885b57e42705,false,,12,6,0,20.8
+audience_member,Regional SolarWinds 250,6b3154cf-bd9a-48e4-9d35-885b57e42705,false,chemonics-com,9,3,0,26.0
+audience_member,Regional SolarWinds 250,6b3154cf-bd9a-48e4-9d35-885b57e42705,false,e-one-com,2,2,0,5.1
+audience_member,Regional SolarWinds 250,6b3154cf-bd9a-48e4-9d35-885b57e42705,false,globeexpress-com,1,1,0,6.1
